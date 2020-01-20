@@ -1,3 +1,13 @@
+리액트로 만든 TODO 앱입니다.
+
+추가한 모듈 목록은 다음과 같습니다.
+
+- classnames
+- react-icons
+- node-scss
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
