@@ -1,10 +1,10 @@
 리액트로 만든 TODO 앱입니다.
 
-추가한 모듈 목록은 다음과 같습니다.
+추가한 대표적인 모듈 목록입니다.
 
 - classnames
-- react-icons
 - node-scss
+- react-virtualized
 
 ---
 
